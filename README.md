@@ -32,7 +32,7 @@ This program accesses the system's firmware table to extract SMBIOS data and par
    - Select **Console Application** and set the project name.
 
 2. **Add Source Code**:
-   - Replace the content of the generated `main.cpp` with the provided code.
+   - Replace the content of the generated `smbios-uuid.cpp` with the provided code.
 
 3. **Configure Project Settings** (if necessary):
    - Ensure the project is set to use C++11 or higher standard.
