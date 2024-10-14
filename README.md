@@ -62,7 +62,7 @@ This program accesses the system's firmware table to extract SMBIOS data and par
 After successful compilation, run the executable from the command prompt:
 
 ```cmd
-.\smbios_uuid.exe
+.\smbios-uuid.exe
 ```
 
 The program will display the SMBIOS UUID:
